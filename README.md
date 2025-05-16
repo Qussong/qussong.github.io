@@ -1,2 +1,3 @@
-# qussong.github.io
-This repo is for Qussong's dev blog. 😀
+# Qussong's GitBlog
+
+This blog for Dev Note. 😀
